@@ -1,1 +1,1 @@
-# TriageX
+# TriageX AI
