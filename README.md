@@ -432,6 +432,9 @@ TriageX/
 ├── docs/
 │   ├── triagex-visual-blueprint.png
 │   └── triagex-backend-blueprint.png
+├── docs/                        # Proposed additional documentation
+├── TriageX.AI Frontend Blueprint.PNG
+├── TriageX.AI Backend Blueprint.PNG
 ├── README.md
 └── .gitignore
 ```
