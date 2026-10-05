@@ -21,11 +21,11 @@ The project brings incident telemetry, generative AI analysis, relevant operatio
 
 ### Visual Project Blueprint
 
-![TriageX.AI visual project blueprint](docs/triagex-visual-blueprint.png)
+![TriageX.AI frontend architecture blueprint](TriageX.AI%20Frontend%20Blueprint.PNG)
 
 ### Backend Blueprint
 
-![TriageX.AI backend architecture blueprint](docs/triagex-backend-blueprint.png)
+![TriageX.AI backend architecture blueprint](TriageX.AI%20Backend%20Blueprint.PNG)
 
 *Diagram placeholders: add the corresponding PNG files to `docs/` when publishing this README at the repository root. The blueprints represent the intended architecture.*
 
